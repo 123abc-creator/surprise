@@ -1,7 +1,7 @@
 function checkPassword() {
   let pass = document.getElementById("password").value;
 
-  if (pass === "123") {
+  if (pass === "19 June 2025") {
     document.getElementById("login").style.display = "none";
     document.getElementById("giftPage").classList.remove("hidden");
   } else {
