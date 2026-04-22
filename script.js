@@ -24,7 +24,7 @@ function showMessage() {
 }
 
 function typeText() {
-  let text = "One year with you... and I still can't believe how lucky I am to have you 💖";
+  let text = "To My Dearest Mental Tubelight Melulu (Shaminte Melzzzz) .... Ik we are not bf/gf anganee onnum illa but the bond we share is beyond that idk what to name this bond as but something which is really beautiful and I don't wanna label it . A random Stranger to Someone who means everything.";
   let i = 0;
 
   let speed = setInterval(() => {
