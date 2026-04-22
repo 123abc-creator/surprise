@@ -1,0 +1,25 @@
+body {
+  text-align: center;
+  font-family: Arial;
+  background: #ffe6f0;
+}
+
+.hidden {
+  display: none;
+}
+
+.gift, .envelope {
+  font-size: 80px;
+  cursor: pointer;
+  margin-top: 40px;
+  transition: transform 0.3s;
+}
+
+.gift:hover, .envelope:hover {
+  transform: scale(1.2);
+}
+
+button {
+  padding: 10px 20px;
+  margin-top: 20px;
+}
