@@ -35,5 +35,5 @@ function typeText() {
 }
 
 function openRealLetter() {
-  window.location.href = "PASTE-YOUR-LETTER-LINK";
+  window.location.href = "https://openwhenletters.app/c/539186e7-54f0-4e53-9f99-63d85b889162/edit/82cf62435fab68c0d1124c0d53ac4900377be250307488d2dd7d961a25209723K";
 }
