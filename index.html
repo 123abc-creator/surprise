@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>For My Melulu 💖</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<div id="login">
+  <h2>Enter Password 🔐</h2>
+  <input type="password" id="password">
+  <button onclick="checkPassword()">Unlock 💌</button>
+</div>
+
+<div id="giftPage" class="hidden">
+  <h2>Click your gift 🎁</h2>
+  <div class="gift" onclick="openEnvelope()">🎁</div>
+</div>
+
+<div id="envelopePage" class="hidden">
+  <div class="envelope" onclick="showMessage()">✉️</div>
+  <p>(click the envelope)</p>
+</div>
+
+<div id="messagePage" class="hidden">
+  <p id="typing"></p>
+  <button onclick="openRealLetter()">Open your real letter 💖</button>
+</div>
+
+<audio id="music" src="https://www.bensound.com/bensound-music/bensound-love.mp3"></audio>
+
+<script src="script.js"></script>
+</body>
+</html>
